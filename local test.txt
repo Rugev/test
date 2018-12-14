@@ -2,4 +2,8 @@ first line, commit
 addin a few more new
 THINGS
 this line was added from another branch
+<<<<<<< HEAD
 added from master while branch 3 is active
+=======
+added from branch 3
+>>>>>>> branch_3
